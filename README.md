@@ -1,7 +1,7 @@
 ### TermTorrent
 
 Minimal command line utility for downloading torrents in your terminal.
-![alt text](image-1.png)
+![Screenshot of App Interface](./Screenshots/image1.png)
 Minimal utilities to:
 
 - Create a `.torrent` file from a folder (trackerless, DHT-enabled) using `torf`.
